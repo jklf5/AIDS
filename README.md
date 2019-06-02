@@ -50,6 +50,6 @@ AI &amp; DataScience,include Quant.
 ### Books （书籍）
 1、基于
 
-![Alt text](https://github.com/jklf5/AIDS/tree/master/AI/HandsOnML/test.jpg)
+![Alt text](https://github.com/jklf5/AIDS/blob/master/AI/HandsOnML/HandOnML.jpg)
 
 ### Online Course （网络课程）
