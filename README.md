@@ -30,7 +30,7 @@
 ***
 
 ## Appendices （附录）
-* Books （书籍）
+* <font size=5>**Books （书籍）**</font>
 
     * **机器学习实战 基于Scikit-Learn和TensorFlow**
 
@@ -42,7 +42,7 @@
 
         [GitHub Code Repository](https://github.com/ageron/handson-ml2 "机器学习实战 基于Scikit-Learn和TensorFlow的代码仓库")
 
-* Online Courses （网络课程）
+* <font size=5>*Online Courses （网络课程）*</font>
     * **Python数据分析与展示**
 
         [Course Link](https://www.icourse163.org/course/BIT-1001870002 "Python数据分析与展示网络课程链接")
