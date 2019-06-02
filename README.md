@@ -40,9 +40,9 @@
 
         ![Alt text](https://github.com/jklf5/AIDS/blob/master/AI/HandsOnML/HandOnML.jpg)
 
-        [GitHub Code Repository](https://github.com/ageron/handson-ml2)
+        [GitHub Code Repository](https://github.com/ageron/handson-ml2 "机器学习实战 基于Scikit-Learn和TensorFlow的代码仓库")
 
 * Online Courses （网络课程）
     * **Python数据分析与展示**
 
-        [Course Link](https://www.icourse163.org/course/BIT-1001870002)
+        [Course Link](https://www.icourse163.org/course/BIT-1001870002 "Python数据分析与展示网络课程链接")
