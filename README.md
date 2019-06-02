@@ -1,13 +1,13 @@
 # AIDS
 AI &amp; DataScience,include Quant
 
-> 包含了所有`人工智能`、`数据科学`和`量化交易`的`学习`与`实践`
+包含了所有`人工智能`、`数据科学`和`量化交易`的`学习`与`实践`
 
 * AI （人工智能）
 
     * TensorFlow （TensoFlow项目）
 
-        * Captcha_Distinguish （验证码识别）
+        * Captcha_Distinguish （验证码识别）[链接](https://github.com/jklf5/AIDS/tree/master/AI/Tensorflow/Captcha_Distinguish "悬停显示")
 
         * Google_Official_Learn （谷歌官方TensorFlow示例项目学习实践）
 
