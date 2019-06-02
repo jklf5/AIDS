@@ -32,17 +32,17 @@
 ## Appendices （附录）
 * Books （书籍）
 
-**机器学习实战 基于Scikit-Learn和TensorFlow**
+    * **机器学习实战 基于Scikit-Learn和TensorFlow**
 
-作者： （法）奥雷利安·杰龙（Aurélien Géron）  
-出版时间: 2018年09月  
-ISBN编号: 9787111603023
+        作者： （法）奥雷利安·杰龙（Aurélien Géron）  
+        出版时间: 2018年09月  
+        ISBN编号: 9787111603023
 
-![Alt text](https://github.com/jklf5/AIDS/blob/master/AI/HandsOnML/HandOnML.jpg)
+        ![Alt text](https://github.com/jklf5/AIDS/blob/master/AI/HandsOnML/HandOnML.jpg)
 
-[GitHub Code Repository](https://github.com/ageron/handson-ml2)
+        [GitHub Code Repository](https://github.com/ageron/handson-ml2)
 
 * Online Courses （网络课程）
-**Python数据分析与展示**
+    * **Python数据分析与展示**
 
-[Course Link](https://www.icourse163.org/course/BIT-1001870002)
+        [Course Link](https://www.icourse163.org/course/BIT-1001870002)
