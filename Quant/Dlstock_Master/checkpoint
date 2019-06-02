@@ -1,2 +1,0 @@
-model_checkpoint_path: "j:\\allFile\\Python_Project\\Quant\\dlstock-master\\stock_rnn_save.ckpt"
-all_model_checkpoint_paths: "j:\\allFile\\Python_Project\\Quant\\dlstock-master\\stock_rnn_save.ckpt"
